@@ -3,3 +3,28 @@
 h1 {
   color: green;
 }
+img {
+    width: 400px;
+}
+
+body {
+    background: url("https://postmediawindsorstar2.files.wordpress.com/2018/08/trippie-redd-cover.jpg?quality=90&strip=all&w=400");
+    font-size: 20px;
+    background-size:auto;
+    background-size:cover;
+    
+}
+
+p {
+    color: white;
+    font-style:italic;
+    
+}
+
+h2 {
+    color: White;
+}
+
+img {
+    border-radius: 500px;
+}
